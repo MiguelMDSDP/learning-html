@@ -1,0 +1,11 @@
+p {
+    color: red;
+}
+
+#p01 {
+    color: blue;
+}
+
+p.pairs {
+    color: yellow;
+}

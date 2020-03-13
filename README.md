@@ -1,8 +1,8 @@
-# Learning HTML
+# Learning Web Development
 
-Repository to store the codes used in html language learning.
+This repository contains all the codes used in web development learning on the Internet Systems class of FURG.
 
 ## Contents
 
-- **HTML**: Contains the html example codes.
-- **CSS**: Contains the css example codes.
+- **Challenges**: Directory to store the solved challenges.
+- **Learning**: Directory to store the codes used in learning.

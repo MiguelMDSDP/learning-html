@@ -1,0 +1,43 @@
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    text-emphasis: bold;
+}
+
+textarea, input {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    text-align: justify;
+}
+
+textarea {
+    background-color: bisque;
+    border: none;
+}
+
+.button {
+    background-color: green;
+    border: 1px solid black;
+    color: white;
+    padding: 15px 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: red;
+}
+
+.button:active {
+    background-color: black;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+tr.optional, td.optional {
+    border: none;
+}

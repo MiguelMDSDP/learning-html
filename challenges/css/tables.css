@@ -1,0 +1,14 @@
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+#A, #H, #J {
+    background-color: red;
+}
+
+#B, #CF {
+    background-color: blue;
+}
